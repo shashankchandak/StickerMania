@@ -56,9 +56,6 @@ public class StickerPackListActivity extends AddStickerPackActivity {
     public boolean onCreateOptionsMenu(Menu menu) {
         MenuInflater menuInflater=getMenuInflater();
         menuInflater.inflate(R.menu.main_menu,menu);
-
-
-
         return super.onCreateOptionsMenu(menu);
     }
 
